@@ -1,5 +1,5 @@
 # Synopsis
-This website called "Fresh Tomatoes Movie Trailers"
+This website called "Fresh Tomatoes!"
 it contain my favor films, each film block how the title of the film and the poster of the film and when click on the poster a pop-up window of youtube open to watch the trailer of the film.
 
 # Download

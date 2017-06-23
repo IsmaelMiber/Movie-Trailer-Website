@@ -9,4 +9,4 @@ https://github.com/IsmaelMiber/Movie-Trailer-Website.git
 You need to download python from "python.org" then install it.
 
 # How To Run it ?
-To get the .html file you will run the "freshtomatoes.py" then a .html file will created and open automatically in your default browser and then you can use and browse the website freely.
+To get the .html file you will run the "entertainments_center.py" then a .html file will created and open automatically in your default browser and then you can use and browse the website freely.
